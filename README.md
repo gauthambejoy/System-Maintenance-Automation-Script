@@ -8,6 +8,7 @@ A simple Bash script that automates system resource monitoring and log managemen
 - Organizes logs and backups automatically
 - Can be scheduled via `cron`
 - Redirects cron debug info to a log file
+- Sends reports via email using `msmtp`
 
 ## Files
 
